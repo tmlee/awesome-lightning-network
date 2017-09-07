@@ -9,6 +9,8 @@ List of content
 - [Presentation Slides](#presentation-slides)
 - [Developer Guides](#developer-guides)
 - [Learn](#learn)
+- [Read](#read)
+- [Apps](#apps)
 
 # Specifications
 * [Lightning Network Specifications (BOLTs)](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md)
@@ -16,10 +18,15 @@ List of content
 * [Lightning Network Summary](https://lightning.network/lightning-network-summary.pdf)
 
 # Implementations
-* [lnd](https://github.com/lightningnetwork/lnd)
-* [eclair](https://github.com/ACINQ/eclair)
-* [lightning-C](https://github.com/ElementsProject/lightning)
-* [lit](https://github.com/mit-dci/lit)
+* [LND](https://github.com/lightningnetwork/lnd) (GoLang)
+* [Eclair](https://github.com/ACINQ/eclair) (Scala)
+* [Lightning-C](https://github.com/ElementsProject/lightning) (C)
+* [LIT](https://github.com/mit-dci/lit) (Java)
+
+# GUIs
+* [Lightning MacOS GUI Wallet for LND](https://github.com/alexbosworth/lnd-gui)
+* [LND Dashboard for Web](https://github.com/mably/lncli-web)
+* [Eclair](https://github.com/ACINQ/eclair)(Scala)
 
 # Presentation Slides
 * [SF Bitcoin Devs](https://lightning.network/lightning-network.pdf)
@@ -27,7 +34,7 @@ List of content
 * [Time and Bitcoin](https://lightning.network/lightning-network-presentation-time-2015-07-06.pdf)
 
 # Developer Guides
-* [Setup lnd with bitcoin & litecoin](http://dev.lightning.community/)
+* [Lightning Network Developer Guide](http://dev.lightning.community/)
 * [Setting up and Testing LND with the Testnet Lightning Faucet](http://lightning.community/lnd/faucet/2017/01/19/lightning-network-faucet/)
 
 # Learn
@@ -38,6 +45,14 @@ List of content
 * [Lightning Networks Part II: Hashed Timelock Contracts (HTLCs)](https://rusty.ozlabs.org/?p=462)
 * [Lightning Networks Part III: Channeling Contracts](https://rusty.ozlabs.org/?p=467)
 * [Lightning Networks Part IV: Summary](https://rusty.ozlabs.org/?p=477)
+
+# Read
+* [Lightning Network Community Blog](http://lightning.community/)
+* [Lightning Apps and the Emerging Developer Ecosystem on LND](http://lightning.community/software/lnd/lightning/2017/07/05/emerging-lightning-developer-ecosystem/)
+
+# Apps
+* [Slack Tipbot](https://github.com/CryptoFR/ln-tip-slack)
+
 
 ## License
 
