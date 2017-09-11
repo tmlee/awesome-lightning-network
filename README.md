@@ -6,6 +6,7 @@ List of content
 
 - [Specifications](#specifications)
 - [Implementations](#implementations)
+- [Presentation Videos](#presentation-videos)
 - [Presentation Slides](#presentation-slides)
 - [Developer Guides](#developer-guides)
 - [Learn](#learn)
@@ -28,6 +29,13 @@ List of content
 * [LND Dashboard for Web](https://github.com/mably/lncli-web)
 * [Eclair](https://github.com/ACINQ/eclair)(Scala)
 
+# Presentation Videos
+* [Scaling Bitcoin to Billions of Transactions Per Day](https://www.youtube.com/watch?v=8zVzw912wPo)
+* [Lightning Network Tech Talk at Coinbase](https://www.youtube.com/watch?v=wIhAmTqXhZQ)
+* [Lightning and SegWit and Schnorr, Oh My!](https://www.youtube.com/watch?v=IKLTi_RAvxA)
+* [Lightning Network as a Directed Graph: Single-Funded Channel Network Topology](https://www.youtube.com/watch?v=-lgYYz3y_hY)
+* [Lightning Network Deep Dive with Laolu "Roasbeef" Osuntokun](https://www.youtube.com/watch?v=b_szGaaPPFk)
+
 # Presentation Slides
 * [SF Bitcoin Devs](https://lightning.network/lightning-network.pdf)
 * [SF Bitcoin Social](https://lightning.network/lightning-network-presentation-sfbitcoinsocial-2015-05-26.pdf)
@@ -49,6 +57,7 @@ List of content
 # Read
 * [Lightning Network Community Blog](http://lightning.community/)
 * [Lightning Apps and the Emerging Developer Ecosystem on LND](http://lightning.community/software/lnd/lightning/2017/07/05/emerging-lightning-developer-ecosystem/)
+* [My Vision For SegWit And Lightning Networks On Litecoin And Bitcoin by Charlie Lee] (https://segwit.org/my-vision-for-segwit-and-lightning-networks-on-litecoin-and-bitcoin-cf95a7ab656b)
 
 # Apps
 * [Slack Tipbot](https://github.com/CryptoFR/ln-tip-slack)
